@@ -1,0 +1,12 @@
+# Model weights
+.models/
+gpt2/
+
+# Virtual environment
+venv/
+
+# Temp files
+explore_output.txt
+explore_output_utf8.txt
+gen_output.txt
+__pycache__/
