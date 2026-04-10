@@ -4,6 +4,10 @@ An instruction-finetuned GPT-2 model that acts as a **Dermatologist / Beauty Adv
 
 Built as part of the LLM Fine-Tuning (Chapter 7) coursework, following the [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch) framework by Sebastian Raschka.
 
+# GPT2 Download Link:
+Just in case you don't have time to retrain, here's the model that I used. [Click Here!](https://drive.google.com/drive/folders/1Qi_taL6F5jfVG636zadlQpxmO7uFrYWF?usp=sharing) 
+**You can just put it in the root directory of Skincaria.**
+
 ## 📋 Overview
 
 Skincaria bridges the gap between simple product classification and conversational AI. Instead of just labeling skin types, the model **explains why** it recommends specific products — citing active ingredients, their scientific functions, and safety warnings.
